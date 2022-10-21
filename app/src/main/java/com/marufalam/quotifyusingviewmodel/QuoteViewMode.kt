@@ -1,8 +1,6 @@
 package com.marufalam.quotifyusingviewmodel
 
 import android.content.Context
-import android.util.Log
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.google.gson.Gson
 import com.marufalam.quotifyusingviewmodel.data.QuotesModel
