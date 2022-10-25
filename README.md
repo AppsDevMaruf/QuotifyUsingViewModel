@@ -5,6 +5,8 @@ Click next button and previous button to change the quotes.After end of the Ques
 - DataBinding
 - ViewModel
 - Live Data
+- Repository
+- Navigation Component
 
 
 
